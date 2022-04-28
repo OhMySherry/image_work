@@ -229,7 +229,7 @@ for i in range(0, LaplacePic.shape[0]):
 
 #### 拉普拉斯锐化结果图
 
-<img src="https://s2.loli.net/2022/04/23/lpxBU4oAeDW6Hcm.jpg" alt="result_03_lap" style="zoom:50%;" />
+<img src="https://s2.loli.net/2022/04/23/lpxBU4oAeDW6Hcm.jpg" alt="result_03_lap" style="zoom: 50%;" />
 
 #### 扩展拉普拉斯算子结果图
 
@@ -434,11 +434,13 @@ if __name__ == '__main__':
 
 #### 截取的样图
 
-<img src="https://s2.loli.net/2022/04/24/ipPv9T63By7gKo5.jpg" alt="Strawberry" style="zoom:33%;" />
+![Strawberry](https://s2.loli.net/2022/04/28/SdjABZq7wtHsYbM.jpg)
+
+![Leaf](https://s2.loli.net/2022/04/28/GAM4Td6zQDeb9Rr.jpg)
 
 #### 欧氏距离算法提取结果
 
-<img src="https://s2.loli.net/2022/04/23/OkSBUvsAfEbXZTl.jpg" alt="result_05_o" style="zoom:33%;" />
+<img src="https://s2.loli.net/2022/04/23/OkSBUvsAfEbXZTl.jpg" alt="result_05_o" style="zoom: 33%;" />
 
 #### 绝对距离算法提取结果
 
